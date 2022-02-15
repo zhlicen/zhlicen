@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=zhlicen)
-- website: https://b.0-0.plus
 - contact: [zhlicen@gmail.com](mailto:zhlicen@gmail.com)
 
 <!--
